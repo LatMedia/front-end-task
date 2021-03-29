@@ -34,4 +34,4 @@
 Однако будет лучше всего если вы подключите файлы не локально, а используя cdn
 
 ## Контакты: 
-Если есть вопросы, то их можно задать в Telegram (t.me/Di_Onee/ t.me/Rick_Decart) или же по почте (web@latmedia.uz). 
+Если есть вопросы, то их можно задать в Telegram ([@Di_one](t.me/Di_Onee/) [@Rick_Decart](t.me/Rick_Decart)) или же по почте (web@latmedia.uz). 
